@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  max-height: 100vh;
+  max-width: 100vw;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.Toastify__toast-theme--dark {
+  background-color: #00000076 !important;
+}
